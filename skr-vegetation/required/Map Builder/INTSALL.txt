@@ -1,0 +1,27 @@
+INSTALLATION GUIDE
+
+		      REQUIRED TO WORK
+	↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+	https://www.gta5-mods.com/tools/map-builder
+	↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+
+FiveM Server Side Install:
+
+1) Go to your server resource folder then "[standalone]"
+
+	a) Download the latest version of Map Builder
+	b) Place "mbmaps" & "mbv_vol1_fivem" inside the "[standalone]" folder 
+	c) Rename "mbv_vol1_fivem" to "mbv_vol1"
+
+2) Extract "shreddykrvegetationserversided"
+	
+	a) Place "[shreddykr_vegetation]" inside the server resource folder
+
+3) Go to the "server.cfg" file for your server
+
+	a) "ensure [shreddykr_vegetation]"
+
+4) Place any optionals into the mods main stream folder
+
+5) Enjoy!
